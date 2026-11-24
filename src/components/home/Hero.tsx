@@ -11,10 +11,6 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         {/* Editorial Heading */}
         <div className="max-w-3xl mx-auto text-center space-y-6 mb-12 sm:mb-16">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-slate-100 border border-slate-200 text-[10px] font-semibold uppercase tracking-widest text-[#091E3A]">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#00C2CB]" />
-            <span>Launch 2026 · Ionized Alkaline Water</span>
-          </div>
 
           <h1 className="text-5xl sm:text-7xl lg:text-8xl font-light text-[#091E3A] tracking-tight leading-[1.02]">
             Purity,
